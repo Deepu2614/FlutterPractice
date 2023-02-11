@@ -13,7 +13,7 @@ class Homepage extends StatelessWidget {
             textAlign: TextAlign.center,
             style: TextStyle(
               color: Colors.deepPurple,
-              fontSize: 40,
+              fontSize: 20,
               fontWeight: FontWeight.bold,
               overflow: TextOverflow.clip,
             ),
